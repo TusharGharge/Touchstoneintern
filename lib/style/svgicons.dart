@@ -1,0 +1,9 @@
+const String iconuser = 'asset/user.svg';
+const String balcony = 'asset/balcony.svg';
+const String bathtube = 'asset/bathtube.svg';
+const String bedone = 'asset/bedone.svg';
+const String bed = "asset/bed.svg";
+const String bulb = "asset/bulb.svg";
+const String house = 'asset/house.svg';
+const String room = 'asset/room.svg';
+const String kitchen = 'asset/kitchen.svg';
